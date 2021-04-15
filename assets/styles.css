@@ -101,3 +101,10 @@ section.title {
 section.title-body {
   padding-top: 75px;
 }
+
+.rounder {
+  border-radius: 15px;
+}
+.purple-bg {
+  background-color: #a452fe;
+}
